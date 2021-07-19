@@ -4,3 +4,4 @@ we just made our first commit
 YAY!!
 
 Git keep track of changes
+made 
